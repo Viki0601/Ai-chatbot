@@ -1,8 +1,15 @@
-/* style.css */
-
 .stApp {
-  background-color: white;
+  background-color:white;
+  margin: 0 auto;
+  max-width: 700px; /* Or whatever max-width fits your design */
+  width: 100%;
+  padding: 20px; /* Add padding if needed */
+  height: auto;
+  border-radius: 15px;
+  border: 2px  solid #DCDCDC	;
 }
+
+
 
 .chat-container {
   max-width: 700px;
@@ -10,8 +17,8 @@
 }
 
 .user-bubble {
-  background-color: #007bff;
-  color: white;
+  background-color: #B0C4DE;
+  color: black;
   border-radius: 20px;
   padding: 10px;
   margin: 10px;
@@ -22,7 +29,7 @@
 }
 
 .assistant-bubble {
-  background-color: #f1f0f0;
+  background-color:#D3D3D3	;
   color: black;
   border-radius: 20px;
   padding: 10px;
@@ -37,28 +44,51 @@
   padding: 15px;
   border-radius: 10px;
   border: 1px solid #ccc;
-  width: 100%;
+  width: calc(100% - 40px);
   box-sizing: border-box;
 }
 
 .chat-submit {
-  background-color: #007bff;
   color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 10px;
   cursor: pointer;
+  width: 100%;
 }
+
 .logo {
   width: 150px; /* Adjust size as needed */
   height: auto; /* Maintain aspect ratio */
   border-radius: 50%; /* Circular logo */
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
   display: block; /* Ensure it’s treated as a block element */
-  margin: 20px auto; /* Center the logo horizontally */
+  margin: 20px auto; 
 }
 
 .logo-container {
   text-align: center; /* Center align logo and other content */
-  padding: 10px;
+}
+.centered-title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.centered-title1 {
+  text-align: left;
+  font-size: 25px;
+  color: 	#696969;
+  font-weight:200;
+  font-family: Copperplate, Papyrus, fantasy;
+  margin: 10px 0;
+}
+
+.streamlit-chat-input {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 20px;
+  width: 100%;
+  font-size: 18px;
 }
