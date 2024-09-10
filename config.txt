@@ -1,2 +1,0 @@
-THIRDAI_KEY = "enter your third api key here"
-OPENAI_API_KEY = "enter your openapi key here"
