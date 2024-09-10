@@ -34,23 +34,20 @@ pdf_files = {
     "doc14" : "indiafirst-maha-jeevan-plan-brochure (1) (1).pdf",
     "doc15" : "indiafirst-money-balance-plan-brochure.pdf",
     "doc16" : "indiafirst-pos-cash-back-plan-brochure.pdf",
-    "doc17" : "guaranteed-protection-plus-plan-brochure (1).pdf",
+    "doc17" : "adb-presentation.pdf",
     "doc18" : "guaranteed-protection-plus-plan-brochure.pdf",
     "doc19" : "indiafirst-csc-shubhlabh-plan-brochure.pdf",
     "doc20" : "indiafirst-life-guaranteed-benefit-plan-brochure1 (1) (1).pdf",
     "doc21" : "indiafirst-life-micro-bachat-plan-brochure (1).pdf",
     "doc22" : "indiafirst-life-insurance-khata-plan-brochure (1).pdf",
-    "doc23" : "indiafirst-life-guaranteed-benefit-plan-brochure1 (1) (1).pdf",
+    "doc23" : "accidental-death-benefit-rider-brochure.pdf",
     "doc24" : "indiafirst-life-long-guaranteed-income-plan-brochure (1).pdf",
     "doc25" : "indiafirst-life-micro-bachat-plan-brochure (1).pdf",
     "doc26" : "indiafirst-life-little-champ-plan-brochure.pdf",
-    "doc27" : "accidental-death-benefit-rider-brochure.pdf",
+    "doc27" : "IndiaFirst_Life_Guarantee_Of_Life_Dreams_Plan_Brochure.pdf",
     "doc28" : "indiafirst-life-group-disability-rider-policy-document-group.pdf",
     "doc29" : "indiafirst-anytime-plan.pdf.coredownload.inline.pdf",
-    "doc30" : "Policies.pdf",
-    "doc31" : "IndiaFirst_Life_Guarantee_Of_Life_Dreams_Plan_Brochure.pdf",
-    "doc32" : "adb-presentation.pdf",
-    "doc33" : "accidental-death-benefit-rider-brochure.pdf"
+    "doc30" : "Policies.pdf"  
 }
 
 
